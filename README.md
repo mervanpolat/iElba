@@ -13,7 +13,7 @@ Welcome to the Simple Banking System! This Java program offers a robust banking 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/simple-banking-system.git`
+1. Clone the repository
 2. Navigate to the project directory: `cd simple-banking-system`
 3. Compile the Java files: `javac Main.java`
 4. Run the program: `java Main`
