@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System (Java)/task/build/
+/Simple Banking System (Java)/task/build/classes/java/main/
+/Simple Banking System (Java)/task/build/classes/java/test/
